@@ -11,7 +11,7 @@ Instacart, a real-world grocery delivery company, wants to uncover the drive beh
 - What are the differences in customer ordering habits?
 
 ## Folder Description
-The folder "Instcart Basket Analysis" contains all elements of the project.
+The folder "Instacart Basket Analysis" contains all elements of the project.
   * 01 Project Management: contains project brief and template for final project deliverable
   * 02 Data: contains original and prepared data used in the analysis (note that the data has not been uploaded to GitHub due to size limitations)
   * 03 Scripts: contains all scripts used in analysis - scripts written using Python and executed using Anaconda's Jupyter Notebook  
